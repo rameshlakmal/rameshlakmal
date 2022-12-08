@@ -34,7 +34,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## 📊 My Github Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshlakmal&hide=prs&count_private=true&show_icons=true&theme=tokyonight&bg_color=40,#ec008c,#fc6767)](https://github.com/anuraghazra/github-readme-stats)  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshlakmal&hide=prs&count_private=true&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## ✨ Top Languages Card
 
@@ -45,7 +45,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <br/>
 
 
-[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=rameshlakmal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=rameshlakmal&theme=react-dark)
 
 
 <br/>
