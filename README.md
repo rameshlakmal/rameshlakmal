@@ -36,7 +36,8 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## 📊 My Github Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mittalsam98&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats] https://github-readme-stats.vercel.app/api?username=rameshlakmal
+  
 
 ## ✨ Top Languages Card
 
