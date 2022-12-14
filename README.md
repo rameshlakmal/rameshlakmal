@@ -10,7 +10,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 - ⚡ Fun fact **I do love watch anime.**
 
-- My website - https://myself.now.sh
+
 
 ## 🚀 Languages and Tools:
 
@@ -58,11 +58,6 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <a href="https://github.com/rameshlakmal?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-# buy-me-a-coffee
-
-Liked some of my work? Buy me a coffee (or more likely a beer)
-
-<a href="https://www.buymeacoffee.com/sachinm" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <!--
 **mittalsam98/mittalsam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
