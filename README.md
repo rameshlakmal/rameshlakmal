@@ -25,7 +25,7 @@ I am a QA Engineer with a strong passion for ensuring seamless functionality and
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=45348&format=png&color=000000"/> </a> 
     <a href="https://playwright.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" width="45" height="45"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" height="45"/> </a> 
 </p>
 
 
