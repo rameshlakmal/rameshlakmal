@@ -8,19 +8,12 @@
   <samp> I am a QA Engineer passionate about delivering seamless functionality and exceptional user experiences. Skilled in manual and automation testing, I specialize in efficient testing processes to ensure high-quality software. Detail-oriented and adaptable, I thrive in dynamic environments, driving user satisfaction through robust QA practices.</samp> <br><br>
 📊 Vist my portfolio https://rameshlakmal.github.io/ <br><br>
   <img src="https://komarev.com/ghpvc/?username=rameshlakmal" alt="https://github.com/rameshlakmal" />
-
-
 </p>
 
+<br><br>
+
 <hr>
-
-
-
-
-
-
-
-
+<br><br>
 
 ## 🚀 Languages and Tools:
 
@@ -39,12 +32,12 @@
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" width="30" height="30"/> </a>  &nbsp;
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" width="30" height="30"/> </a>  &nbsp;
 </p>
-
+<br><br>
 <hr>
-
+<br><br>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="www.linkedin.com/in/rameshlakmal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/ramesh-lakmal99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rameshslakmal1999@gmail.com@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
