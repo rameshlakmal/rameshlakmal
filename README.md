@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/he.gif" alt="header" height="100%" width="100%"/ >
 </div>
-
+<hr>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 
 <p align="center">
