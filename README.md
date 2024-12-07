@@ -3,9 +3,16 @@
 <div align="center">
   <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/he.gif" alt="header" height="100%" width="100%"/ >
 </div>
-## 🙋‍♂️ About Me
 
-I am a QA Engineer with a strong passion for ensuring seamless functionality and delivering exceptional user experiences. Skilled in both manual and automation testing, I specialize in creating efficient and reliable testing processes to ensure high-quality software solutions. With a detail-oriented and customer-focused approach, I thrive in dynamic environments and excel at adapting to new challenges. My goal is to drive user satisfaction and continuously improve the functionality and performance of web applications through robust quality assurance practices.
+<h2 align="center"> 👨‍💻 Whoami</h2>
+
+<p align="center">
+  <samp> I am a QA Engineer with a strong passion for ensuring seamless functionality and delivering exceptional user experiences. Skilled in both manual and automation testing, I specialize in creating efficient and reliable testing processes to ensure high-quality software solutions. With a detail-oriented and customer-focused approach, I thrive in dynamic environments and excel at adapting to new challenges. My goal is to drive user satisfaction and continuously improve the functionality and performance of web applications through robust quality assurance practices. </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=rameshlakmal" alt="https://github.com/rameshlakmal" />
+</p>
+
+
 
 - 📊 Vist my portfolio **https://rameshlakmal.github.io/**
 
