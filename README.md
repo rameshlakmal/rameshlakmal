@@ -1,7 +1,8 @@
 <h1 align="center"> 👋 </h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
-
+<div align="center">
+  <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/header.gif" alt="header"/>
+</div>
 ## 🙋‍♂️ About Me
 
 I am a QA Engineer with a strong passion for ensuring seamless functionality and delivering exceptional user experiences. Skilled in both manual and automation testing, I specialize in creating efficient and reliable testing processes to ensure high-quality software solutions. With a detail-oriented and customer-focused approach, I thrive in dynamic environments and excel at adapting to new challenges. My goal is to drive user satisfaction and continuously improve the functionality and performance of web applications through robust quality assurance practices.
