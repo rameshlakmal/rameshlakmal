@@ -1,5 +1,3 @@
-<h1 align="center"> 👋 </h1>
-
 <div align="center">
   <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/he.gif" alt="header" height="100%" width="100%"/ >
 </div>
@@ -12,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=rameshlakmal" alt="https://github.com/rameshlakmal" />
 </p>
 
+<hr>
 
 
 - 📊 Vist my portfolio **https://rameshlakmal.github.io/**
