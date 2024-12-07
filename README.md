@@ -12,8 +12,7 @@
 
 <hr>
 
-<p align="center">- 📊 Vist my portfolio **https://rameshlakmal.github.io/**
-</p>p
+<p align="center">📊 Vist my portfolio **https://rameshlakmal.github.io/**</p>
 
 
 
