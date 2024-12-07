@@ -27,7 +27,7 @@ I am a QA Engineer with a strong passion for ensuring seamless functionality and
     <a href="https://playwright.dev/" target="_blank"> <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="postman" height="45"/> </a>   
     <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" height="45"/> </a>
     <a href="https://testng.org/" target="_blank"> <img src="https://images.javatpoint.com/tutorial/testng/images/testng-tutorial.png" height="45"/> </a>
-    <a href="https://junit.org/junit5/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png?20211216140742" height="45"/> </a>
+    <a href="https://junit.org/junit5/" target="_blank"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="45"/> </a>
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" height="45"/> </a> 
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" height="45"/> </a> 
 
