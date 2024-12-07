@@ -13,9 +13,8 @@
 <br>
 
 <hr>
-<br>
-<h2 align="center"> 🚀 Tech Stack</h2>
 
+<h2 align="center"> 🚀 Tech Stack</h2>
 
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/> </a>&nbsp; 
