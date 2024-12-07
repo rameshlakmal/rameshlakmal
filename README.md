@@ -25,7 +25,10 @@ I am a QA Engineer with a strong passion for ensuring seamless functionality and
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=45348&format=png&color=000000"/> </a> 
     <a href="https://playwright.dev/" target="_blank"> <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="postman" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" height="45"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" height="45"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-A5763BE4D0-seeklogo.com.png" height="45"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-AC0E7573B0-seeklogo.com.png" height="45"/> </a> 
+
 </p>
 
 
