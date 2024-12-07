@@ -42,11 +42,11 @@
 </p><br> <hr>
 
 <h2  align="center">💻 Checkout my Repo</h2>
-<p align="center">
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=differ)](https://github.com/rameshlakmal/playwright-and-zerostep)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=simple-sqlite)](https://github.com/rameshlakmal/Playwright-Practice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=simple-sqlite)](https://github.com/rameshlakmal/Playwright-POM-Demo)
-</p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=playwright-and-zerostep)](https://github.com/rameshlakmal/playwright-and-zerostep)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=Playwright-Practice)](https://github.com/rameshlakmal/Playwright-Practice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=Playwright-POM-Demo)](https://github.com/rameshlakmal/Playwright-POM-Demo)
+
 
 
 
