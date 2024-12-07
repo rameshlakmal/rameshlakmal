@@ -31,8 +31,8 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"width="30" height="30"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/> </a> 
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=45348&format=png&color=000000" width="30" height="30"/> </a> 
-    <a href="https://playwright.dev/" target="_blank"> <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="postman" width="30" height="30"/> </a>   
-    <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" width="30" height="30"/> </a>
+    <a href="https://playwright.dev/" target="_blank"> <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="postman" width="40" height="30"/> </a>   
+    <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" height="30"/> </a>
     <a href="https://testng.org/" target="_blank"> <img src="https://images.javatpoint.com/tutorial/testng/images/testng-tutorial.png" width="30" height="30"/> </a>
     <a href="https://junit.org/junit5/" target="_blank"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="30" height="30"/> </a>
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" width="30" height="30"/> </a> 
