@@ -43,7 +43,9 @@
 
 <h2  align="center">💻 Checkout my Repo</h2>
 <p align="center">
-[![Readme Cardhttps://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=differ)](https://github.com/rameshlakmal/playwright-and-zerostep)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=simple-sqlite)](https://github.com/rameshlakmal/Playwright-Practice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=simple-sqlite)](https://github.com/rameshlakmal/Playwright-POM-Demo)
 </p>
 
 
