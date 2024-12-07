@@ -6,9 +6,7 @@
 
 I'm a passionate Full Stack Web And App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
-- 📫 How to reach me **rameshslakmal1999@gmail.com**
 - 📊 Vist my portfolio **https://rameshlakmal.github.io/**
-- ⚡ Fun fact **I do love watch anime.**
 
 
 
