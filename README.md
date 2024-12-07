@@ -37,50 +37,8 @@
     <a href="https://junit.org/junit5/" target="_blank"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="45"/> </a>
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" height="45"/> </a> 
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" height="45"/> </a> 
-
 </p>
 
 
-<br/>
 
 
-## 📊 My Github Stats
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshlakmal&hide=prs&count_private=true&show_icons=true&bg_color=30,b721ff,21d4fd&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
-
-## ✨ Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshlakmal&layout=compact&bg_color=30,b721ff,21d4fd&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-<br/>
-
-
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rameshlakmal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-<br/>
-
-## Connect with me:
-
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rameshlakmal">
-</a>
-<a href="https://github.com/rameshlakmal?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
- -->
-
-<!--
-**mittalsam98/mittalsam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
