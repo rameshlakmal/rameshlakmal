@@ -45,7 +45,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=playwright-and-zerostep)](https://github.com/rameshlakmal/playwright-and-zerostep)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=Playwright-Practice)](https://github.com/rameshlakmal/Playwright-Practice)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=Playwright-POM-Demo)](https://github.com/rameshlakmal/Playwright-POM-Demo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rameshlakmal&repo=Playwright-POM-Demo&theme=radical)](https://github.com/rameshlakmal/Playwright-POM-Demo)
 
 
 
