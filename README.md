@@ -9,8 +9,8 @@
 📊 Vist my portfolio https://rameshlakmal.github.io/
 
   <br> <br>
-  <img align="center" src="https://komarev.com/ghpvc/?username=rameshlakmal" alt="https://github.com/rameshlakmal" />
 </p>
+  <img align="center" src="https://komarev.com/ghpvc/?username=rameshlakmal" alt="https://github.com/rameshlakmal" />
 
 <hr>
 
