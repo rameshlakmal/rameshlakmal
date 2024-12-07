@@ -26,7 +26,7 @@ I am a QA Engineer with a strong passion for ensuring seamless functionality and
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=45348&format=png&color=000000"/> </a> 
     <a href="https://playwright.dev/" target="_blank"> <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="postman" height="45"/> </a>   
     <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/logo.svg" height="45"/> </a>
-    <a href="https://testng.org/" target="_blank"> <img src="https://c0.klipartz.com/pngpicture/640/776/sticker-png-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text-trademark-logo-nunit.png" height="45"/> </a>
+    <a href="https://testng.org/" target="_blank"> <img src="https://images.javatpoint.com/tutorial/testng/images/testng-tutorial.png" height="45"/> </a>
     <a href="https://junit.org/junit5/" target="_blank"> <img src="https://c0.klipartz.com/pngpicture/194/707/gratis-png-unidad-de-pruebas-de-software-de-automatizacion-de-pruebas-de-junit.png" height="45"/> </a>
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" height="45"/> </a> 
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" height="45"/> </a> 
