@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 </h1>
 
 <div align="center">
-  <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/Hello.gif" alt="header" height="50%" width="50%"/ >
+  <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/Hello.gif" alt="header" height="100%" width="100%"/ >
 </div>
 ## 🙋‍♂️ About Me
 
