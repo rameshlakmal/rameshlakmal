@@ -30,7 +30,6 @@
     <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" width="30" height="30"/> </a>  &nbsp;
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" width="30" height="30"/> </a>  &nbsp;
 </p>
-<hr>
 <br>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
