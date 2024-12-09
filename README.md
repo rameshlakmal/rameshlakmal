@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/d.gif" alt="header" height="100%" width="100%"/ >
+  <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/d2.gif" alt="header" height="100%" width="100%"/ >
 </div>
 
 <h2 align="center"> 👨‍💻 Behind the Screen</h2>
