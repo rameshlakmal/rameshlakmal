@@ -6,8 +6,8 @@
 
 <p align="center">
   <samp> I am a QA Engineer passionate about delivering seamless functionality and exceptional user experiences. Skilled in manual and automation testing, I specialize in efficient testing processes to ensure high-quality software. Detail-oriented and adaptable, I thrive in dynamic environments, driving user satisfaction through robust QA practices.</samp> <br><br>
-📊 Vist my portfolio https://lakmalramesh.online// <br><br>
-  <img src="https://komarev.com/ghpvc/?username=rameshlakmal" alt="https://lakmalramesh.online/" />
+📊 Vist my portfolio https://lakmalramesh.online/ <br><br>
+  <img src="https://komarev.com/ghpvc/?username=rameshlakmal" alt="https://github.com/rameshlakmal" />
 </p>
 
 <br>
