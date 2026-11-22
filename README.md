@@ -1,9 +1,6 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/header-light.svg">
-    <img src="img/header-light.svg" alt="Hello, I'm Ramesh! QA Engineer | Test Automation Enthusiast" width="100%">
-  </picture>
+  <img src="img/header-dark.svg#gh-dark-mode-only" alt="Hello, I'm Ramesh! QA Engineer | Test Automation Enthusiast" width="100%">
+  <img src="img/header-light.svg#gh-light-mode-only" alt="Hello, I'm Ramesh! QA Engineer | Test Automation Enthusiast" width="100%">
 </div>
 
 <h2 align="center"> 👨‍💻 Behind the Screen</h2>
