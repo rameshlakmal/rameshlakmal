@@ -14,17 +14,6 @@
 
 I'm a QA engineer who works to take the surprises out of release day. I test web, mobile and cloud products with focused manual testing, practical automation and lightweight performance checks, and I write findings that are clear, actionable and easy to reproduce.
 
-```ts
-const ramesh = {
-  role:       "QA Engineer @ WaveZync",
-  location:   "Sri Lanka",
-  focus:      ["Test design", "E2E automation", "API testing", "Performance testing"],
-  automation: ["Playwright", "Selenium (Java)", "GitHub Actions", "Azure DevOps"],
-  certified:  "ISTQB Certified Tester, Foundation Level",
-  exploring:  "AI agents that plan, write and heal Playwright tests",
-};
-```
-
 ## Tech stack
 
 <table>
