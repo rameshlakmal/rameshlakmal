@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://github.com/rameshlakmal/rameshlakmal/blob/main/img/d2.gif" alt="header" height="5%" width="100%"/ >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/header-light.svg">
+    <img src="img/header-light.svg" alt="Hello, I'm Ramesh! QA Engineer | Test Automation Enthusiast" width="100%">
+  </picture>
 </div>
 
 <h2 align="center"> 👨‍💻 Behind the Screen</h2>
