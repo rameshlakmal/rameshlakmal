@@ -10,6 +10,25 @@
   </p>
 </div>
 
+## At a glance
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Role</h3>
+      QA engineer for web, mobile and cloud products: test planning, execution, defect triage and release validation.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Experience</h3>
+      3+ years in QA across LMS, ERP, POS and SaaS platforms. Currently the sole QA engineer across several concurrent projects at <a href="https://www.wavezync.com/">WaveZync</a>.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Focus</h3>
+      Maintainable Playwright automation, API testing, test data tooling and using AI agents to speed up test work.
+    </td>
+  </tr>
+</table>
+
 ## About me
 
 I'm a QA engineer who works to take the surprises out of release day. I test web, mobile and cloud products with focused manual testing, practical automation and lightweight performance checks, and I write findings that are clear, actionable and easy to reproduce.
